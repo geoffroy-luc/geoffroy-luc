@@ -2,9 +2,6 @@
 
 ###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffroy-luc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geoffroy.luc@epitech.eu) 
-
 <p align="left">
 My name is Geoffroy Luc and I'm a final-year EPITECH student, mobile & full-stack developer, from France 🇫🇷
 </p>
@@ -70,7 +67,8 @@ My name is Geoffroy Luc and I'm a final-year EPITECH student, mobile & full-stac
 <h2 align="left">📫 Get in touch</h2>
 
 ###
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffroy-luc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geoffroy.luc@epitech.eu) 
 <p align="left">
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/geoffroy-luc/" target="_blank">linkedin.com/in/geoffroy-luc</a><br>
 📧 Email: <a href="mailto:geoffroy.luc@epitech.eu">geoffroy.luc@epitech.eu</a>
