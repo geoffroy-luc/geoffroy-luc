@@ -51,6 +51,6 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GeoffroyLuc&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GeoffroyLuc&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffroyLuc&theme=default&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=geoffroy-luc&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=geoffroy-luc&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geoffroy-luc&theme=default&hide_border=false&layout=compact)
