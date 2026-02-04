@@ -63,3 +63,14 @@ My name is Geoffroy Luc and I'm a final-year EPITECH student, mobile & full-stac
 </div>
 
 ###
+
+<h2 align="left">📫 Get in touch</h2>
+
+###
+
+<p align="left">
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/geoffroy-luc/" target="_blank">linkedin.com/in/geoffroy-luc</a><br>
+📧 Email: <a href="mailto:geoffroy.luc@epitech.eu">geoffroy.luc@epitech.eu</a>
+</p>
+
+###
