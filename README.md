@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-My name is Geoffroy (Jeremy) Luc and I'm a final-year EPITECH student, mobile & full-stack developer, from France 🇫🇷
+My name is Geoffroy Luc and I'm a final-year EPITECH student, mobile & full-stack developer, from France 🇫🇷
 </p>
 
 ###
